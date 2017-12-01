@@ -1,7 +1,7 @@
 # hubot-slack-reaction-example
 
 THANK YOU to Mike Bland <mbland@acm.org> for the original documentation on how to get this bot up and running 
-His code can be found by clicking the NPM button below
+His code can be found by clicking the NPM button 
 [![npm](https://img.shields.io/npm/v/hubot-slack-reaction-example.svg?maxAge=2592000)](https://www.npmjs.com/package/hubot-slack-reaction-example)
 
 
