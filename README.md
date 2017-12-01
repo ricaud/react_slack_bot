@@ -1,6 +1,6 @@
 # hubot-slack-reaction-example
 
-THANK YOU TO Mike Bland <mbland@acm.org> for the original documentation on how to get this bot up and running 
+THANK YOU to Mike Bland <mbland@acm.org> for the original documentation on how to get this bot up and running 
 His code can be found by clicking the NPM button below
 [![npm](https://img.shields.io/npm/v/hubot-slack-reaction-example.svg?maxAge=2592000)](https://www.npmjs.com/package/hubot-slack-reaction-example)
 
@@ -43,10 +43,8 @@ All of the example code is in `scripts/handle-reaction.coffee`.
    ------------------------------------
    ```
 
-1. Post a message in your Slack domain and add an emoji reaction to it.
-
-Now you should see something like:
-
+1. Now just wait for your victim to post a message in a channel that the bot is a member of and it will
+   react to the message.
 
 [slack-create]: https://slack.com/create
 [slack-bot-user]: https://api.slack.com/bot-users]
