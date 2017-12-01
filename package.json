@@ -1,0 +1,14 @@
+{
+  "name": "react_slack_bot",
+  "version": "1",
+  "author": "David Ricaud <davidaricaud@gmail.com",
+  "description": "A bot that will automatically react to all of a team member's messages",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-slack": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricaud/react_slack_bot.git"
+  }
+}
