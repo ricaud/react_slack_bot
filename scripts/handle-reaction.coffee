@@ -19,7 +19,7 @@ module.exports = (robot) ->
     #values = (value for own prop, value of res)
     #console.log(values)
     
-    if res.message.user.name = 'ricaud' #define the victims username here
+    if res.message.user.name = 'lilvish' #define the victims username here
 
       #info on the message posted by the victim 
       console.log "========================================"
