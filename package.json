@@ -1,6 +1,6 @@
 {
   "name": "react_slack_bot",
-  "version": "1",
+  "version": "1.2.2",
   "author": "David Ricaud <davidaricaud@gmail.com",
   "description": "A bot that will automatically react to all of a team member's messages",
   "dependencies": {
